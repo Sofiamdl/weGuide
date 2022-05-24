@@ -1,2 +1,2 @@
 # weGuide
-Application made with swift 
+Application of courses for seniors made with swift. 
